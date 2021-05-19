@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm GaneshRaj V</h1>
-<h3 align="center">-  - I have a habit of learning things that are new to me and tuning My self as the weights get turned in Neural Network.</h3>
+<p align="center"> Deep Learning Intern <i> @ HertzAI</i><br><br>
+  Ex- Junior Machine Learning Developer @ <i>Podscademy</i> <br><br>I have a habit of learning things that are new to me and tuning My self as the weights get turned in Neural Network.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh9100&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh9100" /> </p>
 
