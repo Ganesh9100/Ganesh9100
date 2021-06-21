@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh9100&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh9100" /> </p>
 
-- 🔭 I’m currently working on **Augmented Reality**
+- 🔭 I’m currently working on **H2o**
 
 - 🌱 I’m currently learning **Advanced Deep Learning**
 
