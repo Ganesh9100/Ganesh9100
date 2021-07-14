@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **edugan28@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MoTmYyIwoeJKRpmH1By0i4sqglxDxSpi/view?usp=sharing](https://drive.google.com/file/d/1MoTmYyIwoeJKRpmH1By0i4sqglxDxSpi/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1aGDqpOC01Qgj1l3hJivNS7WGMt4RTJ3I/view?usp=sharing](https://drive.google.com/file/d/1MoTmYyIwoeJKRpmH1By0i4sqglxDxSpi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
