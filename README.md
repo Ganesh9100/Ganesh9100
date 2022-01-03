@@ -2,7 +2,7 @@
 <h2 align='center'>Work Experience</h2>
 <h4 align='center'>Programmer Analyst Trainee @ Cognizant</h4>
 <h2 align='center'>Internship</h2>
-<h4 align='center'>EX - Data Scientist and Software Engineer @ Tadaa</h4>
+<h4 align='center'>EX - Data Scientist and Software Engineer @ Tadaa (US. California)</h4>
 <p align="center">Ex-Junior Machine Learning Developer @<b><i>Podscademy</i></b><br>Ex- Deep Learning Engineer @<b><i>HertzAI</i></b><br><br>I have a habit of learning things that are new to me and tuning my self as the weights get turned in Neural Network.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh9100&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh9100" /> </p>
