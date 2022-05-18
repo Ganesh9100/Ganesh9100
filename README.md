@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm GaneshRaj V</h1>
 <h2 align='center'>Work Experience</h2>
+<h4 align='center'>Senior Research Associate in Data & AIoT @ CloudThat</h4><br>
 <h4 align='center'>Programmer Analyst Trainee @ Cognizant</h4>
 <h2 align='center'>Internship</h2>
 <h4 align='center'>EX - Data Scientist and Software Engineer @ Tadaa (USA, California)</h4>
@@ -15,7 +16,7 @@
 
 - 📫 How to reach me **edugan28@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aGDqpOC01Qgj1l3hJivNS7WGMt4RTJ3I/view?usp=sharing](https://drive.google.com/file/d/1MoTmYyIwoeJKRpmH1By0i4sqglxDxSpi/view?usp=sharing)
+- 📄 Know about my experiences https://www.linkedin.com/in/ganesh-raj-v-251495144/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
