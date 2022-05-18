@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm GaneshRaj V</h1>
 <h2 align='center'>Work Experience</h2>
 <h4 align='center'>Senior Research Associate in Data & AIoT @ CloudThat</h4><br>
-<h5> May 2022 - Present</h5>
-<h4 align='center'> Programmer Analyst Trainee @ Cognizant</h4> <br>
-<h5> Aug 2021 - April 2022</h5>
+<h5 align='center'> May 2022 - Present</h5>
+<h4 align='center'> Programmer Analyst Trainee @ Cognizant</h4>
+<h5 align='center'> Aug 2021 - April 2022</h5>
 <h2 align='center'>Internship</h2>
 <h4 align='center'>EX - Data Scientist and Software Engineer @ Tadaa (USA, California)</h4>
 <p align="center">Ex-Junior Machine Learning Developer @<b><i>Podscademy</i></b><br>Ex- Deep Learning Engineer @<b><i>HertzAI</i></b><br><br>I have a habit of learning things that are new to me and tuning my self as the weights get turned in Neural Network.</p>
