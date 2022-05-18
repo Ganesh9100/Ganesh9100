@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm GaneshRaj V</h1>
 <h2 align='center'>Work Experience</h2>
-<h4 align='center'>Senior Research Associate in Data & AIoT @ CloudThat</h4><br>
+<h4 align='center'>Senior Research Associate in Data & AIoT @ CloudThat</h4>
 <h5 align='center'> May 2022 - Present</h5>
 <h4 align='center'> Programmer Analyst Trainee @ Cognizant</h4>
 <h5 align='center'> Aug 2021 - April 2022</h5>
