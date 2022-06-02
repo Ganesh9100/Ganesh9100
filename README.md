@@ -10,9 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh9100&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh9100" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Machine Learning , Azure**
 
-- 🌱 I’m currently learning **Advanced Deep Learning**
+- 🌱 I’m currently learning **Azure**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ganesh9100](https://github.com/Ganesh9100)
 
