@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm GaneshRaj V</h1>
 <h2 align='center'>Work Experience</h2>
-<h4 align='center'>Senior Research Associate in Data & AIoT @ CloudThat</h4>
+<h4 align='center'>Data Scientist GenAI/NLP @ Fractal Analytics</h4>
+<h4 align='center'>Lead SME AI/ML (GenAI) @ CloudThat</h4>
 <h5 align='center'> May 2022 - Present</h5>
 <h4 align='center'> Programmer Analyst Trainee @ Cognizant</h4>
 <h5 align='center'> Aug 2021 - April 2022</h5>
