@@ -3,16 +3,18 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ganesh9100&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
+<p align="center">
+    <img src="gaen.png" alt="Profile Picture" width="150" height="150"/>
+</p>
 ---
 
 ## 🚀 About Me  
 
-🔭 I’m currently working on **Machine Learning & Azure**  
-🌱 I’m currently learning **Azure**  
+🔭 I’m currently working on **Building LLM Models for Telecom Company**  
+🌱 I’m currently learning **Agentic AI**  
 💼 All of my projects are available at **[My GitHub](https://github.com/Ganesh9100)**  
 📫 How to reach me: **edugan28@gmail.com**  
-📄 Know about my experiences: **[LinkedIn](https://www.linkedin.com/in/ganesh-raj-v-251495144/)**  
+📄 Know about my professional experiences: **[LinkedIn](https://www.linkedin.com/in/ganesh-raj-v-251495144/)**  
 
 ---
 
@@ -22,7 +24,10 @@
 📅 March 2024 - Present  
 
 ### 🔹 Lead SME AI/ML (GenAI) @ CloudThat  
-📅 May 2022 - March 2024  
+📅 April 2023 - March 2024 
+
+### 🔹 Senior Research Associate in GenAI/ML (NLP) @ CloudThat  
+📅 May 2022 - March 2023
 
 ### 🔹 Programmer Analyst Trainee @ Cognizant  
 📅 Aug 2021 - April 2022  
@@ -77,3 +82,4 @@
 ---
 
 🚀 **Let's build something awesome together!**
+ 
