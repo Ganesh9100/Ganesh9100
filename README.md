@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=ganesh9100&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 <p align="center">
-    <img src="gaen.png" alt="Profile Picture" width="150" height="150"/>
+    <img src="gaen.png" alt="Profile Picture" width="487" height="363"/>
 </p>
 ---
 
