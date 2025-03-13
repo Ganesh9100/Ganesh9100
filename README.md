@@ -6,7 +6,7 @@
 <p align="center">
     <img src="gaen.png" alt="Profile Picture" width="487" height="363"/>
 </p>
----
+-------------------------------------------------------------------------------
 
 ## 🚀 About Me  
 
