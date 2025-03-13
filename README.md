@@ -1,39 +1,79 @@
-<h1 align="center">Hi, I'm GaneshRaj V</h1>
-<h2 align='center'>Work Experience</h2>
-<h4 align='center'>Data Scientist GenAI/NLP @ Fractal Analytics</h4>
-<h5 align='center'> March 2024 - Present</h5>
-<h4 align='center'>Lead SME AI/ML (GenAI) @ CloudThat</h4>
-<h5 align='center'> May 2022 - March 2024</h5>
-<h4 align='center'> Programmer Analyst Trainee @ Cognizant</h4>
-<h5 align='center'> Aug 2021 - April 2022</h5>
-<h2 align='center'>Internship</h2>
-<h4 align='center'>EX - Data Scientist and Software Engineer @ Tadaa (USA, California)</h4>
-<p align="center">Ex-Junior Machine Learning Developer @<b><i>Podscademy</i></b><br>Ex- Deep Learning Engineer @<b><i>HertzAI</i></b><br><br>I have a habit of learning things that are new to me and tuning my self as the weights get turned in Neural Network.</p>
+<h1 align="center">Hi, I'm GaneshRaj V 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh9100&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh9100" /> </p>
-
-- 🔭 I’m currently working on **Machine Learning , Azure**
-
-- 🌱 I’m currently learning **Azure**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Ganesh9100](https://github.com/Ganesh9100)
-
-- 📫 How to reach me **edugan28@gmail.com**
-
-- 📄 Know about my experiences https://www.linkedin.com/in/ganesh-raj-v-251495144/
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-<a href="https://www.linkedin.com/in/ganesh-raj-v-251495144/" target="blank"><img align="center" src="https://github.com/Ganesh9100/Ganesh9100/blob/main/linkedin_.png" alt="https://www.linkedin.com/in/ganesh-raj-v-251495144/" height="50" width="60" /></a>
-<br>
-<br>
-<a href="https://www.instagram.com/raj_ganesh12/" target="blank"><img align="center" src="https://github.com/Ganesh9100/Ganesh9100/blob/main/insta.png" alt="https://www.instagram.com/raj_ganesh12/" height="50" width="50" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ganesh9100&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganesh9100&show_icons=true&locale=en&layout=compact" alt="ganesh9100" /></p>
+## 🚀 About Me  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganesh9100&show_icons=true&locale=en" alt="ganesh9100" /></p>
+🔭 I’m currently working on **Machine Learning & Azure**  
+🌱 I’m currently learning **Azure**  
+💼 All of my projects are available at **[My GitHub](https://github.com/Ganesh9100)**  
+📫 How to reach me: **edugan28@gmail.com**  
+📄 Know about my experiences: **[LinkedIn](https://www.linkedin.com/in/ganesh-raj-v-251495144/)**  
+
+---
+
+## 💼 Work Experience  
+
+### 🔹 Data Scientist (GenAI/NLP) @ Fractal Analytics  
+📅 March 2024 - Present  
+
+### 🔹 Lead SME AI/ML (GenAI) @ CloudThat  
+📅 May 2022 - March 2024  
+
+### 🔹 Programmer Analyst Trainee @ Cognizant  
+📅 Aug 2021 - April 2022  
+
+---
+
+## 🎓 Internship  
+
+- **EX - Data Scientist & Software Engineer @ Tadaa (USA, California)**  
+- **Ex-Junior Machine Learning Developer @ Podscademy**  
+- **Ex-Deep Learning Engineer @ HertzAI**  
+
+💡 *I have a habit of learning things that are new to me and tuning myself like weights get tuned in a Neural Network.*  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ganesh-raj-v-251495144/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/raj_ganesh12/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" height="30">
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="50" height="50"/>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ganesh9100&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh9100&layout=compact&theme=tokyonight" height="180" />
+</p>
+
+---
+
+🚀 **Let's build something awesome together!**
